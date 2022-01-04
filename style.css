@@ -46,3 +46,13 @@ padding-left: 2%;
     border-radius: 10px;
     box-shadow: 10px 10px 40px red;
 }
+.experince-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#web-developer{
+    border-left: 7px solid;
+    border-image:linear-gradiant(blue,cyan);
+    border-image-slice: 1;
+}
