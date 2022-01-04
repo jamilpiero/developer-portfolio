@@ -8,7 +8,7 @@ h1{
 .big{
     color:orange;
 }
-section{
+.flexible-mama{
     display: flex;
     margin-bottom: 150px;
     
